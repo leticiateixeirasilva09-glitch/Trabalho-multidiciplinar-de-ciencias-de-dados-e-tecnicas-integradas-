@@ -132,4 +132,4 @@ TRABALHO 3 TRI - MULTIDISCIPLINAR.pdf
 5. Impacto e Próximos Passos:
 
 "O nosso modelo apresenta atualmente uma margem de erro (RMSE) controlada. Recomendamos a suspensão imediata de transferências sem a verificação por duplo fator de autenticação e a ativação dos protocolos de bloqueio com base nos alertas da nossa ferramenta."   
-TRABALHO 3 TRI - MULTIDISCIPLINAR.pdf
+
